@@ -1,4 +1,4 @@
-!pip install streamlit pyngrok
+#!pip install streamlit pyngrok
 %%writefile app.py
 
 import streamlit as st
