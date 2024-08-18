@@ -1,5 +1,5 @@
-pip install seaborn
-streamlit run app.py
+#pip install seaborn
+#streamlit run app.py
 import numpy as np
 import pandas as pd
 import seaborn as sns
